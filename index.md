@@ -25,12 +25,12 @@
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav">
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">Sobre</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Projetos</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Colaboradores</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Participação de eventos</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interesses</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Publicações</a></li>
                 </ul>
             </div>
         </nav>
@@ -44,7 +44,7 @@
                         <span class="text-primary">grupo de pesquisa</span>
                     </h1>
                     <div class="subheading mb-5">
-                        Salinas · IFNMG, CO 80810 · (38) 38417000 ·
+                        Salinas · IFNMG, (38) 38417000 ·
                         <a href="mailto:name@email.com">name@email.com</a>
                     </div>
                     <p class="lead mb-5">Nós trabalhamos com...</p>
